@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+    color: green;
+}
+.heading{
+    width: 80%;
+    font-size: 40px;
+}
+.nombre_objetos{
+    color: rgb(255, 0, 0);
+}
+#camera{
+    width: 350px;
+    height: 300px;
+}
